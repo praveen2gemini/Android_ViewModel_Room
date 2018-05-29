@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVM_sample</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hint_user">User\.\.\.</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">User not saved because it is empty.</string>
+</resources>
